@@ -5,4 +5,4 @@ git tag -a v1.0.0 -m "Первый релиз"
 git show v1.0.0
 
 # 3. Отправка на GitHub
-git push origin v1.0.0        # или git push origin --tags для всех тегов
+git push origin v1.0.0      
